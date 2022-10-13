@@ -1,0 +1,14 @@
+.kerry-font-color {
+    color: #f37024;
+}
+
+.kerry-button-color {
+    background-color: #f37024;
+    border: 1px solid #f37024;
+    border-radius: 4px;
+    color: #ffffff;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 32px;
+    padding-right: 32px;
+}

@@ -1,0 +1,51 @@
+/* enable absolute positioning */
+
+.inner-addon {
+    position: relative;
+}
+
+
+/* style icon */
+
+.inner-addon .bi {
+    position: absolute;
+    padding: 10px;
+    pointer-events: none;
+}
+
+
+/* align icon */
+
+.left-addon .bi {
+    left: 0px;
+}
+
+.right-addon .bi {
+    right: 0px;
+}
+
+
+/* add padding  */
+
+.left-addon input {
+    padding-left: 30px;
+}
+
+.right-addon input {
+    padding-right: 30px;
+}
+
+.kerry-font-color {
+    color: #f37024;
+}
+
+.kerry-button-color {
+    background-color: #f37024;
+    border: 1px solid #f37024;
+    border-radius: 4px;
+    color: #ffffff;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-left: 32px;
+    padding-right: 32px;
+}
